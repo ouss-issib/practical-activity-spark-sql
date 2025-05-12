@@ -1,4 +1,3 @@
-md_content = """
 # 🧠 Activité Pratique : Analyse d’incidents avec Spark SQL en Java
 
 Ce dépôt contient la solution de l’activité pratique portant sur le traitement de données avec **Spark SQL** en utilisant le langage **Java**.  
