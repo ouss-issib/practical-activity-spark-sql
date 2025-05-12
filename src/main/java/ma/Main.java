@@ -20,7 +20,7 @@ public class Main {
         Dataset<Row> df = spark.read()
                 .option("header", true)
                 .option("inferSchema", true)
-                .csv("src/main/resources/incidents_random.csv");
+                .csv("src/main/resources/incidents.csv");
 
         // Afficher le schéma pour vérifier
         df.printSchema();
