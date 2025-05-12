@@ -1,0 +1,16 @@
+id,titre,description,service,date
+1,Erreur machine,Panne sur ligne de production,Mécanique,2023-04-15
+2,Incident électrique,Court-circuit dans l'atelier,Électrique,2022-11-03
+3,Fuite hydraulique,Fuite détectée sur une pompe,Hydraulique,2023-01-21
+4,Logiciel planté,Arrêt système ERP,Informatique,2024-06-10
+5,Erreur de stock,Écart d’inventaire important,Logistique,2022-03-12
+6,Données perdues,Sauvegarde corrompue,Informatique,2024-01-25
+7,Courroie cassée,Arrêt ligne de production,Mécanique,2023-08-19
+8,Défaut de capteur,Capteur de température inopérant,Électrique,2023-09-02
+9,Bug logiciel,Erreur d'affichage tableau de bord,Informatique,2022-12-14
+10,Colis endommagé,Palette tombée,Logistique,2023-07-07
+11,Maintenance non planifiée,Remplacement urgent de pièce,Hydraulique,2024-04-20
+12,Défaillance moteur,Moteur grillé,Mécanique,2024-05-01
+13,Erreur serveur,Serveur non joignable,Informatique,2023-02-05
+14,Fumée détectée,Départ de feu maîtrisé,Électrique,2022-09-18
+15,Incident transport,Rupture de charge,Logistique,2024-08-03
